@@ -1,3 +1,7 @@
+# please find the url and replace with your server ip
+ >lib>services>remote_services.dart
+ ```http://192.168.1.104:80```
+
 # countdown_app
 
 A new Flutter project.
